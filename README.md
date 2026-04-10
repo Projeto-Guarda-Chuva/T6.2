@@ -71,8 +71,8 @@ As mensagens devem ser **claras, objetivas e descritivas**, indicando exatamente
 #### 📌 Regras
 - Todo código deve passar por revisão antes de ser integrado
 - Um Pull Request deve:
-- Ser revisado por no mínimo 2 membros
-- Ser aprovado antes do merge
+  - Ser revisado por no mínimo 2 membros
+  - Ser aprovado antes do merge
 #### 👥 Revisão de Código
 - A revisão deve ser feita por:
 - Membros da equipe
