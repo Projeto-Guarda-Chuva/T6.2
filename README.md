@@ -42,7 +42,9 @@ As mensagens devem ser **claras, objetivas e descritivas**, indicando exatamente
 - git commit -m "docs [3.2] : Alteração no README"
 - git commit -m "rem [5.1] : Remoção da função 'audio_captado'"
 
-#### 🌿 Branching
+---
+
+### 🌿 Branching
 #### 📌 Estrutura de Branches
 - main
   - Contém versões estáveis do projeto
@@ -62,8 +64,10 @@ As mensagens devem ser **claras, objetivas e descritivas**, indicando exatamente
 - Correções de bugs devem ser feitas em branches específicas
 - Uma branch só deve ser mesclada na main quando:
   - O desenvolvimento estiver finalizado
+
+---
  
-#### 🔀 Pull Requests
+### 🔀 Pull Requests
 #### 📌 Regras
 - Todo código deve passar por revisão antes de ser integrado
 - Um Pull Request deve:
