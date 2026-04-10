@@ -75,8 +75,8 @@ As mensagens devem ser **claras, objetivas e descritivas**, indicando exatamente
   - Ser aprovado antes do merge
 #### 👥 Revisão de Código
 - A revisão deve ser feita por:
-- Membros da equipe
-- E/ou equipe de segurança
+  - Membros da equipe
+  - E/ou equipe de segurança
 - O revisor deve:
   - Solicitar mudanças, se necessário
   - Garantir qualidade e boas práticas
