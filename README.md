@@ -76,7 +76,7 @@ As mensagens devem ser **claras, objetivas e descritivas**, indicando exatamente
 #### 👥 Revisão de Código
 - A revisão deve ser feita por:
   - Membros da equipe
-  - E/ou equipe de segurança
+  - E/ou equipe de qualidade
 - O revisor deve:
   - Solicitar mudanças, se necessário
   - Garantir qualidade e boas práticas
